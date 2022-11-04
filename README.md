@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @SrSylveon
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SrSylveon/SrSylveon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hola pibe como estas? si me encontraste sera por una razon especifica pero hola, soy SrSylveon xd
+Soy coder novato xdddddddd
+Trabajo con HaxeFlixel y un poquito de C (Planeo Portear Psych Engine a android xd
+soy un mamon uwu
+verga esto se esta haciendo largo solo te deseo un muy buen dia :3
+tqm
