@@ -1,4 +1,5 @@
-Idk
+Hewwo, I'm RenTheSylvee :3, a normal guy who want to program shit :b
+
 
 Haxe (a bit uwu)
 
